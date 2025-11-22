@@ -7,23 +7,23 @@
 ### 1️⃣ Download Single File
 ```bash
 # Direct download
-curl -O https://raw.githubusercontent.com/securityxd/filemanager2025/main/filemanager.php
+curl -O https://raw.githubusercontent.com/yourusername/filemanager-2025-2025/main/filemanager-2025.php
 
 # Or download via browser
-# Visit: https://github.com/yourusername/filemanager-2025
-# Click: filemanager.php → Download
+# Visit: https://github.com/yourusername/filemanager-2025-2025
+# Click: filemanager-2025.php → Download
 ```
 
 ### 2️⃣ Upload to Server
 ```bash
 # Upload to your web server
-# Place filemanager.php in desired directory
-# Set permissions: chmod 644 filemanager.php
+# Place filemanager-2025.php in desired directory
+# Set permissions: chmod 644 filemanager-2025.php
 ```
 
 ### 3️⃣ Access via Browser
 ```
-http://yourdomain.com/filemanager.php
+http://yourdomain.com/filemanager-2025.php
 ```
 
 ## ✨ Features
@@ -168,7 +168,7 @@ chown www-data:www-data /path/to/directory
 #### Blank Page
 ```bash
 # Check PHP errors
-php -l filemanager.php
+php -l filemanager-2025.php
 
 # Enable error display temporarily
 ini_set('display_errors', 1);
@@ -178,7 +178,7 @@ error_reporting(E_ALL);
 ## 📊 File Structure
 
 ```
-filemanager.php          # Complete application (single file)
+filemanager-2025.php          # Complete application (single file)
 ├── PHP Backend (~400 lines)
 ├── HTML Structure (~200 lines)
 ├── CSS Styles (~150 lines)
@@ -241,8 +241,8 @@ MIT License - Free to use, modify, and distribute
 
 ### Repository Structure
 ```
-filemanager-2025/
-├── filemanager.php          # Main single-file application
+filemanager-2025-2025/
+├── filemanager-2025.php          # Main single-file application
 ├── README_SINGLE.md          # This documentation
 ├── LICENSE                   # MIT License
 └── CHANGELOG.md              # Version history
@@ -254,13 +254,13 @@ filemanager-2025/
 git clone https://github.com/yourusername/filemanager-2025.git
 
 # Use immediately
-cd filemanager-2025
-# Upload filemanager.php to your server
+cd filemanager-2025-2025
+# Upload filemanager-2025.php to your server
 ```
 
 ### Direct Download Link
 ```
-https://raw.githubusercontent.com/yourusername/filemanager-2025/main/filemanager.php
+https://raw.githubusercontent.com/yourusername/filemanager-2025-2025/main/filemanager-2025.php
 ```
 
 ---
