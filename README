@@ -7,7 +7,7 @@
 ### 1️⃣ Download Single File
 ```bash
 # Direct download
-curl -O https://raw.githubusercontent.com/yourusername/filemanager-2025/main/filemanager.php
+curl -O https://raw.githubusercontent.com/securityxd/filemanager2025/main/filemanager.php
 
 # Or download via browser
 # Visit: https://github.com/yourusername/filemanager-2025
