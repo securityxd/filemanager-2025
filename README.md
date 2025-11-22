@@ -2,7 +2,7 @@
 
 📁 **Professional Web-based File Management System**
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1️⃣ Download Single File
 ```bash
@@ -266,3 +266,4 @@ https://raw.githubusercontent.com/yourusername/file-manager-2025/main/file-manag
 ---
 
 **🎯 Ready to use in 30 seconds!**
+
